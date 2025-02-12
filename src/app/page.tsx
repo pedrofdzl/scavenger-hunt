@@ -104,7 +104,7 @@ export default function Home() {
       {step === 1 && (
         <div className={styles.main}>
           <Image src="/eye.png" alt="logo" width={60} height={60} />
-          <h2>Portal 50</h2>
+          <h2>Portal Ganymede 50</h2>
           <p className={styles.description}>
             Ingresa el código de acceso para ingresar al sistema.
           </p>
